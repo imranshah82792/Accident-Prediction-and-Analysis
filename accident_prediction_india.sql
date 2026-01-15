@@ -1,6 +1,6 @@
 create database accident_prediction;
 use accident_prediction;
-select* from accident_prediction_india;
+select * from accident_prediction_india;
 SELECT * 
 FROM accident_prediction_india
 LIMIT 20;
